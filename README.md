@@ -1,7 +1,7 @@
 # Is it worth to buy a house in California?
 ### Possible Questions :
-Compare the housing prices with different types of houses in different counties
-Compare the housing prices in different times
+Compare the housing prices with different types of houses in different counties<br>
+Compare the housing prices in different times<br>
 Predict housing prices to decide when/where to buy a house in California
 
 ### Datasets :
