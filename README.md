@@ -1,7 +1,7 @@
 # Is it worth to buy a house in California?
 ### Possible Questions :
 <li>Are there different housing price in counties? Why?</li><br>
-<li>How time affect the housing price? Why?</li><br>
+<li>How does time affect the housing price? Why?</li><br>
 <li>Metrics to choose the best place and house for buyer</li>
 
 ### Datasets :
