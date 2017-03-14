@@ -1,7 +1,8 @@
 <h2><strong>Where Should You Invest In California Real Estate?</strong></h2>
 <address>Team Members &nbsp;&nbsp;Xin Li, &nbsp;Chia-Hui Shen, &nbsp;Ying-Chen Chou,&nbsp;Danyang Chen </address>
-<p> <https://github.com/alice4926/CaliforniaHousing><br> 
-<https://alice4926.github.io/CaliforniaHousing/> </p>
+<https://github.com/alice4926/CaliforniaHousing><br> 
+<https://alice4926.github.io/CaliforniaHousing/>
+
 <h3> Purpose </h3>
     <p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
     in U.S for over 50,000 dollars. The reasons are not only overwhelm demanding from residents or prospective residents but also the 
@@ -29,10 +30,10 @@
     bar with one standard deviation. You can find that even in the California, in different counties still have significant difference in the
     median housing price. Therefore, we nee to discuss every county seperately later.
    <div>
-        <a href="https://plot.ly/~aenni0409/64/" target="_blank" title="plot from API (28)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/64.png" alt="plot from API (28)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-        <script data-plotly="aenni0409:64" src="https://plot.ly/embed.js" async></script>
+        <a href="https://plot.ly/~aenni0409/64/" target="_blank" title="plot from API (28)" style="display: block; text-align: center;"> <img src="https://plot.ly/~aenni0409/64.png" alt="plot from API (28)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+     <script data-plotly="aenni0409:64" src="https://plot.ly/embed.js" async></script>
     </div> 
-    </p>
+</p>
 
 <li> Median All-home price for each county </li>
     
@@ -41,17 +42,20 @@
     <div>
         <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
         <script data-plotly="aenni0409:149" sharekey-plotly="LkvhYOxc9o2BO3dQkGGwtp" src="https://plot.ly/embed.js" async></script>
-    </div></p>
+    </div>
+</p>
+
 <h3> Relation between Features and Housing Price</h3>
 
 <li> Overall </li>
 
 <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases.
-Moreover
-<div>
-    <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
-</div></p>
+Moreover 
+   <div>
+       <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+       <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
+   </div>
+</p>
 
 
 <h3> Conclusion</h3>
