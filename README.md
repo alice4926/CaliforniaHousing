@@ -61,11 +61,13 @@ Moreover
 
 <li> Income vs Housing Price </li>
 
-<p>
    <div>
-       <a href="https://plot.ly/~alice4926/9/?share_key=GCR8XsntiJ4JFp4qxYDvPR" target="_blank" title="Income vs Price" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/9/?share_key=GCR8XsntiJ4JFp4qxYDvPR" alt="Income vs Pricex" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+       <a href="https://plot.ly/~alice4926/9/?share_key=GCR8XsntiJ4JFp4qxYDvPR" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/9/?share_key=GCR8XsntiJ4JFp4qxYDvPR" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+       <script data-plotly="aenni0409:77" sharekey-plotly="GCR8XsntiJ4JFp4qxYDvPR" src="https://plot.ly/embed.js" async></script>
    </div>
-</p>
+
+<li> Population vs Housing Price </li>
+
 
 
 <h3> Conclusion</h3>
