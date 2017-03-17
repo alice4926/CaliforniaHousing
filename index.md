@@ -15,8 +15,6 @@
     </p>
 
 <h3> Data Sources </h3>
-
-### Datasets :
 [Zillow](http://www.zillow.com/research/data/)<br>
 [School Rating](http://school-ratings.com/counties/Alameda.html?type=HS&rankFilter=10)<br>
 [U.S. Census Bureau](https://www.census.gov/quickfacts/table/PST045216/06)<br>
