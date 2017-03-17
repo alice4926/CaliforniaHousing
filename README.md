@@ -15,11 +15,14 @@ Metrics to choose the best place and house for buyer
 [U.S. Census Bureau](https://www.census.gov/quickfacts/table/PST045216/06)<br>
 [Federal Bureau of Investigation](https://ucr.fbi.gov)
 
-###Plan :
+### Plan :
 At first, we will extract the dataset of housing price in California from zillow.com and combine the time-series dataset. Visualize the dataset to observe the interesting things from dataset. Because the dataset has lots of missing values, we will try to predict missing values to have better prediction. https://github.com/alice4926/CaliforniaHousing
-
-##Team members
+ 
+## Team members
 Xin Li
 Chia-Hui Shen
 Ying-Chen Chou
 Danyang Chen
+
+## Website
+You can access our result [here](https://alice4926.github.io/CaliforniaHousing/)
