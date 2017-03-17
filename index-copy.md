@@ -101,6 +101,14 @@ This is a time series plot to describe the number of houses available in all the
 
 
 <h4> 2. Housing Price between Southern and Northen California </h4>
+<div>
+    <a href="https://plot.ly/~alice4926/25/?share_key=E57ttr0jCXyTAsgHdFBcNz" target="_blank" title="SvsN_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/25.png?share_key=E57ttr0jCXyTAsgHdFBcNz" alt="SvsN_sold15_plot" style="max-width: 100%;width: 985px;"  width="985" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:25" sharekey-plotly="E57ttr0jCXyTAsgHdFBcNz" src="https://plot.ly/embed.js" async></script>
+</div>
+
+<p>The box plot showed the minimum, maximum, 25%, median, and 75% of the sold price in 2015 for Northern CA and Southern CA separately. The dash line represent the mean sold price. From the plot, price in Northern and Southern are distributed differently. However, their mean are close. To test if two price mean are the same, we do the two sample t test with the null hypothesis that the difference of two mean are zero. Base on the result of hypothesis, the p-value is large. We can conclude that two price mean are the same. </p>
+
+
 
 <h4> 3. Income vs Housing Price </h4>
 
