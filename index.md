@@ -15,10 +15,11 @@
     </p>
 
 <h3> Data Sources </h3>
-[Zillow](http://www.zillow.com/research/data/)<br>
-[School Rating](http://school-ratings.com/counties/Alameda.html?type=HS&rankFilter=10)<br>
-[U.S. Census Bureau](https://www.census.gov/quickfacts/table/PST045216/06)<br>
-[Federal Bureau of Investigation](https://ucr.fbi.gov)
+<a href="http://www.zillow.com/research/data/">Zillo</a> <br>
+<a href="http://school-ratings.com/counties/Alameda.html?type=HS&rankFilter=10)">School Rating</a> <br>
+<a href="https://www.census.gov/quickfacts/table/PST045216/06">U.S. Census Bureau</a> <br>
+<a href="https://ucr.fbi.gov">Federal Bureau of Investigation</a> <br>
+
 
 <h3> Data Description </h3>
 
