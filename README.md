@@ -37,6 +37,13 @@
     </div> 
 </p>
 
+<li> Median All-home price and Unemployment Rate </li>
+<div>
+    <a href="https://plot.ly/~alice4926/19/?share_key=NdSlTVEZPBPUSh9D4kKjLh" target="_blank" title="unemployment_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/19.png?share_key=NdSlTVEZPBPUSh9D4kKjLh" alt="unemployment_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:19" sharekey-plotly="NdSlTVEZPBPUSh9D4kKjLh" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 <li> Median All-home price for each county </li>
     
 <p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
@@ -60,6 +67,11 @@ Moreover
 </p>
 
 <li> Income vs Housing Price </li>
+<div>
+    <a href="https://plot.ly/~alice4926/17/?share_key=dKw3JiZ1bgK1Itrm5Vy1N5" target="_blank" title="income_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/17.png?share_key=dKw3JiZ1bgK1Itrm5Vy1N5" alt="income_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:17" sharekey-plotly="dKw3JiZ1bgK1Itrm5Vy1N5" src="https://plot.ly/embed.js" async></script>
+</div>
+
 <li> Population vs Housing Price </li>
 <div>
     <a href="https://plot.ly/~alice4926/15/?share_key=PKHmLXTWXyLns5hOYOlUwu" target="_blank" title="population_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/15.png?share_key=PKHmLXTWXyLns5hOYOlUwu" alt="population_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
