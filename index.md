@@ -13,3 +13,72 @@
     Therefore, in this project, we will use Zillow housing price data for each counties in California and some features to find the 
     best combination of feature of house with housing price and let people know more about housing price in California.
     </p>
+
+<h3> Data Sources </h3>
+
+### Datasets :
+[Zillow](http://www.zillow.com/research/data/)<br>
+[School Rating](http://school-ratings.com/counties/Alameda.html?type=HS&rankFilter=10)<br>
+[U.S. Census Bureau](https://www.census.gov/quickfacts/table/PST045216/06)<br>
+[Federal Bureau of Investigation](https://ucr.fbi.gov)
+
+<h3> Data Description </h3>
+
+<h3> Time-Series Data </h3>
+<li> Mean and Median All-homes price in California from 1996 to 2016 </li>
+<p>According to the time-series line below, we can find that the housing price from 1996 to Jun 2007 was increased. However, after mid-year
+    2007, the price started to decrease. One of the main reason is the subprime mortgage crisis has started and a collapse of housing bubble
+    started from December 2007 to June 2009. Not until 2011, the housing price has started to increase. For the fill with gray is the error
+    bar with one standard deviation. You can find that even in the California, in different counties still have significant difference in the
+    median housing price. Therefore, we nee to discuss every county seperately later.
+   <div>
+        <a href="https://plot.ly/~aenni0409/64/" target="_blank" title="plot from API (28)" style="display: block; text-align: center;"> <img src="https://plot.ly/~aenni0409/64.png" alt="plot from API (28)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+     <script data-plotly="aenni0409:64" src="https://plot.ly/embed.js" async></script>
+    </div> 
+</p>
+
+<li> Median All-home price and Unemployment Rate </li>
+<div>
+    <a href="https://plot.ly/~alice4926/19/?share_key=NdSlTVEZPBPUSh9D4kKjLh" target="_blank" title="unemployment_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/19.png?share_key=NdSlTVEZPBPUSh9D4kKjLh" alt="unemployment_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:19" sharekey-plotly="NdSlTVEZPBPUSh9D4kKjLh" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
+<li> Median All-home price for each county </li>
+    
+<p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
+    San Francisco. 
+    <div>
+        <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+        <script data-plotly="aenni0409:149" sharekey-plotly="LkvhYOxc9o2BO3dQkGGwtp" src="https://plot.ly/embed.js" async></script>
+    </div>
+</p>
+
+<h3> Relation between Features and Housing Price</h3>
+
+<li> Overall </li>
+
+<p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases.
+Moreover 
+   <div>
+       <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+       <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
+   </div>
+</p>
+
+<li> Income vs Housing Price </li>
+<div>
+    <a href="https://plot.ly/~alice4926/17/?share_key=dKw3JiZ1bgK1Itrm5Vy1N5" target="_blank" title="income_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/17.png?share_key=dKw3JiZ1bgK1Itrm5Vy1N5" alt="income_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:17" sharekey-plotly="dKw3JiZ1bgK1Itrm5Vy1N5" src="https://plot.ly/embed.js" async></script>
+</div>
+
+<li> Population vs Housing Price </li>
+<div>
+    <a href="https://plot.ly/~alice4926/15/?share_key=PKHmLXTWXyLns5hOYOlUwu" target="_blank" title="population_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/15.png?share_key=PKHmLXTWXyLns5hOYOlUwu" alt="population_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="alice4926:15" sharekey-plotly="PKHmLXTWXyLns5hOYOlUwu" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
+
+
+<h3> Conclusion</h3>
