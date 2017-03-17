@@ -13,12 +13,12 @@
     regions where are worthwhile to invest and where should be avoided buying house with unreasonable price. 
     Therefore, in this project, we will use Zillow housing price data for each counties in California and some features to find the 
     best combination of feature of house with housing price and let people know more about housing price in California.
-
+ </p>
     <div>
     <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 60%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:71" sharekey-plotly="aliiu2NR6RwVq2g9EcDqed" src="https://plot.ly/embed.js" async></script>
     </div>
- </p>
+
 
 <h3> Data Sources </h3>
 
@@ -38,11 +38,12 @@
     started from December 2007 to June 2009. Not until 2011, the housing price has started to increase. For the fill with gray is the error
     bar with one standard deviation. You can find that even in the California, in different counties still have significant difference in the
     median housing price. Therefore, we nee to discuss every county seperately later.
+    </p>
    <div>
         <a href="https://plot.ly/~aenni0409/64/" target="_blank" title="plot from API (28)" style="display: block; text-align: center;"> <img src="https://plot.ly/~aenni0409/64.png" alt="plot from API (28)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
      <script data-plotly="aenni0409:64" src="https://plot.ly/embed.js" async></script>
     </div> 
-</p>
+
 
 <h5> 2. Housing inventory from Jan 2010 to Jan 2017 </h5>
 <div>
@@ -51,7 +52,7 @@
 </div>
 
 <p>
-This is a time series plot to describe the number of houses available in all the counties of California from Jan 2010 to Jan 2017. We are interested to know that the influence of house supply on the median sold house price. If you look at Aug 2011, the house inventory in Los Angles is the highest, we have 32932 houses available in the market. The median house price at that time is roughly the lowest, which is 365.003k. Another good example will be in San Mateo, Marin and Santa Clara, the inventories of those two counties start to decrease since 2012. And the median sold house price start to increase since that time.
+This is a time series plot to describe the number of houses available in all the counties of California from Jan 2010 to Jan 2017. We are interested to know that the influence of house supply on the median sold house price. If you look at Aug 2011, the house inventory in Los Angles is the highest, we have 32932 houses available in the market. The median house price at that time is roughly the lowest, which is 365.003k. Another good example will be in San Mateo, Marin and Santa Clara, the inventories of those two counties start to decrease since 2012. And the median sold house price start to increase since that time.</p>
 
 <h5> 3. Median All-home price and Unemployment Rate </h5>
 <div>
@@ -66,13 +67,13 @@ This is a time series plot to describe the number of houses available in all the
     
 <p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
     San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive 
-    hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.
+    hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
     <div>
         <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
         <script data-plotly="aenni0409:149" sharekey-plotly="LkvhYOxc9o2BO3dQkGGwtp" src="https://plot.ly/embed.js" async></script>
     </div>
-</p>
+
 
 
 <h3> B. Relation between Features and Housing Price</h3>
