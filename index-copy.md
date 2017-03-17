@@ -69,10 +69,10 @@ This is a time series plot to describe the number of houses available in all the
     San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive 
     hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
-    <div>
+<div>
         <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
         <script data-plotly="aenni0409:149" sharekey-plotly="LkvhYOxc9o2BO3dQkGGwtp" src="https://plot.ly/embed.js" async></script>
-    </div>
+</div>
 
 
 
@@ -90,12 +90,12 @@ This is a time series plot to describe the number of houses available in all the
 
 <h5> b. Compound Annual Growth Rate(CAGR) for recent five year (2012-2016) </h5>
 
-    <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.
+    <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.</p>
 
     <div>
     <a href="https://plot.ly/~aenni0409/193/?share_key=7gNLmHmPwNZPMHQAuixSyr" target="_blank" title="CAGR" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/193.png?share_key=7gNLmHmPwNZPMHQAuixSyr" alt="CAGR" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:193" sharekey-plotly="7gNLmHmPwNZPMHQAuixSyr" src="https://plot.ly/embed.js" async></script>
-    </div></p>
+    </div>
 
 
 <h4> 2. Housing Price between Southern and Northen California </h4>
