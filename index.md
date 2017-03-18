@@ -26,6 +26,7 @@
 <a href="http://school-ratings.com/counties/Alameda.html?type=HS&rankFilter=10)">School Rating</a> <br>
 <a href="https://www.census.gov/quickfacts/table/PST045216/06">U.S. Census Bureau</a> <br>
 <a href="https://ucr.fbi.gov">Federal Bureau of Investigation</a> <br>
+<a href="https://en.wikipedia.org/wiki/Southern_California#Counties">Wikipedia For Southern California</a> <br>
 
 <h3> Data Description </h3>
 
