@@ -7,13 +7,13 @@
 
 <h3> Purpose </h3>
 
-  <p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
+<p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
     in U.S for over 50,000 dollars. The reasons are not only overwhelm demanding from residents or prospective residents but also the 
     extraordinary price changes inside California. Although the median housing price is relatively high, we still can know more about 
     regions where are worthwhile to invest and where should be avoided buying house with unreasonable price. 
     Therefore, in this project, we will use Zillow housing price data for each counties in California and some features to find the 
-    best combination of feature of house with housing price and let people know more about housing price in California.
- </p>
+    best combination of feature of house with housing price and let people know more about housing price in California.</p>
+    
     <div>
     <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 60%;width: 100px;"  width="100" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:71" sharekey-plotly="aliiu2NR6RwVq2g9EcDqed" src="https://plot.ly/embed.js" async></script>
@@ -65,9 +65,7 @@ This is a time series plot to describe the number of houses available in all the
 
 <h5> 4. Median All-home price for each county </h5>
     
-<p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
-    San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive 
-    hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
+<p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
 <div>
         <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -81,7 +79,9 @@ This is a time series plot to describe the number of houses available in all the
 <h4> 1. Overall Housing Prices</h4>
 
 <h5> a. Scatterplot Matrix </h5>
+
    <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.</p>
+   
     <div>
        <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
        <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
@@ -101,6 +101,7 @@ This is a time series plot to describe the number of houses available in all the
 
 
 <h4> 2. Housing Price between Southern and Northen California </h4>
+
 <div>
     <a href="https://plot.ly/~alice4926/25/?share_key=E57ttr0jCXyTAsgHdFBcNz" target="_blank" title="SvsN_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/25.png?share_key=E57ttr0jCXyTAsgHdFBcNz" alt="SvsN_sold15_plot" style="max-width: 100%;width: 985px;"  width="985" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="alice4926:25" sharekey-plotly="E57ttr0jCXyTAsgHdFBcNz" src="https://plot.ly/embed.js" async></script>
