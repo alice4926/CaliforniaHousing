@@ -174,6 +174,20 @@ This interactive plot shows the relationship between average median sold house p
 </p>
 
 
+<h4> 6. Criminal Rate vs Housing Price </h4>
+<div>
+    <a href="https://plot.ly/~63xinxin/4/?share_key=zcMf14QGDeRcg3rLVfj5TB" target="_blank" title="Housing-Price-vs-Criminal-Rate-in-2015" style="display: block; text-align: center;"><img src="https://plot.ly/~63xinxin/4.png?share_key=zcMf14QGDeRcg3rLVfj5TB" alt="Housing-Price-vs-Criminal-Rate-in-2015" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="63xinxin:4" sharekey-plotly="zcMf14QGDeRcg3rLVfj5TB" src="https://plot.ly/embed.js" async></script>
+</div>
+<p> (a)From this plot we can find out that there is negative relationship between housing price and criminal rate. The larger the price, the smaller the criminal rate.<br> (b)Even though there is overlap between counties of high population and counties of low population, regions with small population tends to have higher criminal rate. This is a very interesting result. Because, most of the time we will think that if there are more people, there tends to be have larger criminal rate. <br> (c) Counties with larger population tend to have higher housing price.<br> Now, let's look at some unnormal counties. For example in San Francisco, it has the largest housing price and criminal rate. 
+</p>
+
+<h4> 7.Criminal Rate From 2005 to 2015 </h4>
+<div>
+    <a href="https://plot.ly/~63xinxin/32/?share_key=XP5ZFFRjLga6cYRETQNlWP" target="_blank" title="plot from API (12)" style="display: block; text-align: center;"><img src="https://plot.ly/~63xinxin/32.png?share_key=XP5ZFFRjLga6cYRETQNlWP" alt="plot from API (12)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="63xinxin:32" sharekey-plotly="XP5ZFFRjLga6cYRETQNlWP" src="https://plot.ly/embed.js" async></script>
+</div>
+<p> The size of the points depend on value of the housing price those years. In this plot we can see that in 2006, the criminal rate and housing price were very high. So the value in 2016 can be seen as outlier or unnormal case. For the points in other years we can find out a decrease trend of criminal rate through time. But there is a slightly increase for criminal rate in 2015. For housing price, there is also a decreasing trend from 2006 to 2012. And housing price starts to increase from 2013 to 2015. This plot implies that housing price has a increase trend in the future.</p>
 
 
 
