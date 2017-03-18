@@ -108,6 +108,17 @@ This is a time series plot to describe the number of houses available in all the
 
 <p>The box plot showed the minimum, maximum, 25%, median, and 75% of the sold price in 2015 for Northern CA and Southern CA separately. The dash line represent the mean sold price. From the plot, price in Northern and Southern are distributed differently. However, their mean are close. To test if two price mean are the same, we do the two sample t test with the null hypothesis that the difference of two mean are zero. Base on the result of hypothesis, the p-value is large. We can conclude that two price mean are the same. </p>
 
+<pre><code>## 
+##  Welch Two Sample t-test
+## 
+## data:  CA_price15$sold_15 by CA_price15$district
+## t = -1.0364, df = 19.248, p-value = 0.3128
+## alternative hypothesis: true difference in means is not equal to 0
+## 95 percent confidence interval:
+##  -176277.24   59446.93
+## sample estimates:
+## mean in group north mean in group south 
+##            339166.9            397582.1</code></pre>
 
 
 <h4> 3. Income vs Housing Price </h4>
