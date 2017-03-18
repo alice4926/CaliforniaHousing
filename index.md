@@ -7,7 +7,7 @@
 
 <h3> Purpose </h3>
 
-<p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
+    <p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
     in U.S for over 50,000 dollars. The reasons are not only overwhelm demanding from residents or prospective residents but also the 
     extraordinary price changes inside California. Although the median housing price is relatively high, we still can know more about 
     regions where are worthwhile to invest and where should be avoided buying house with unreasonable price. 
@@ -18,6 +18,7 @@
     <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 60%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:71" sharekey-plotly="aliiu2NR6RwVq2g9EcDqed" src="https://plot.ly/embed.js" async></script>
     </div>
+
 
 <h3> Data Sources </h3>
 
@@ -64,7 +65,9 @@ This is a time series plot to describe the number of houses available in all the
 
 <h5> 4. Median All-home price for each county </h5>
     
-<p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
+<p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
+    San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive 
+    hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
 <div>
         <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -78,18 +81,16 @@ This is a time series plot to describe the number of houses available in all the
 <h4> 1. Overall Housing Prices</h4>
 
 <h5> a. Scatterplot Matrix </h5>
-
-   <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.</p>
-   
+    <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.
     <div>
        <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
        <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
    </div>
-
+</p>
 
 <h5> b. Compound Annual Growth Rate(CAGR) for recent five year (2012-2016) </h5>
 
-   <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.</p>
+    <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.</p>
 
 <div>
     <a href="https://plot.ly/~aenni0409/193/?share_key=7gNLmHmPwNZPMHQAuixSyr" target="_blank" title="CAGR" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/193.png?share_key=7gNLmHmPwNZPMHQAuixSyr" alt="CAGR" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -100,7 +101,6 @@ This is a time series plot to describe the number of houses available in all the
 
 
 <h4> 2. Housing Price between Southern and Northen California </h4>
-
 <div>
     <a href="https://plot.ly/~alice4926/25/?share_key=E57ttr0jCXyTAsgHdFBcNz" target="_blank" title="SvsN_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/25.png?share_key=E57ttr0jCXyTAsgHdFBcNz" alt="SvsN_sold15_plot" style="max-width: 100%;width: 985px;"  width="985" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="alice4926:25" sharekey-plotly="E57ttr0jCXyTAsgHdFBcNz" src="https://plot.ly/embed.js" async></script>
@@ -132,10 +132,11 @@ This is a time series plot to describe the number of houses available in all the
     <script data-plotly="danielle91515:3" sharekey-plotly="JAKR1issa4h5YSqNcfuahN" src="https://plot.ly/embed.js" async></script>
 </div>
 <p>
-This is a county level choropleths map showing the trend of school scores 2016 obtained from <a href = "https://www.schooldigger.com">Schooldigger</a>. For each county, I sum the elementary, middle and high school scores up and average them in each county. Then, since the averaged score is between 0 to 1, for making this map, I divide the score by 0.01 to change its scale to 0 to 100 and assign the color for each county based on the value. In the map above, the more red the region is, the higher school score the county has. For general trend, we can see that northern California is doing better than southern part of California. There are more red regions around San Francisco. The highest region is Marin (0.7644). The second runner up is San Jose (0.73). The third runner up is San Francisco (0.7242). They are all located at northern California. If we take a closer look at southern part of California, the highest score region is Irvien (0.6744). The second runner up is Santa Barbara (0.6471). Because Los Angeles has the most number of schools in California, the score range may be quite different. It does not the top rank county in southern part of California. The average score is 0.57.
+This is a county level choropleths map showing the trend of school scores 2016 obtained from <a href="https://www.schooldigger.com">Schooldigger</a>. For each county, I sum the elementary, middle and high school scores up and average them in each county. Then, since the averaged score is between 0 to 1, for making this map, I divide the score by 0.01 to change its scale to 0 to 100 and assign the color for each county based on the value. In the map above, the more red the region is, the higher school score the county has. For general trend, we can see that northern California is doing better than southern part of California. There are more red regions around San Francisco. The highest region is Marin (0.7644). The second runner up is San Jose (0.73). The third runner up is San Francisco (0.7242). They are all located at northern California. If we take a closer look at southern part of California, the highest score region is Irvien (0.6744). The second runner up is Santa Barbara (0.6471). Because Los Angeles has the most number of schools in California, the score range may be quite different. It does not the top rank county in southern part of California. The average score is 0.57.
 </p>
 
-<p><img src ="plot//bar_error_school.png"></p>
+<p><img src ="/plot/bar_error_school.png"></p>
+
 <p>
 This picture shows the variance of school scores in each county. It is interesting to see that the variance of los angeles is not huge. That means the reason Los Angeles is not the top rated county for school is that all the school scores in Los Angeles are not high. Trinity has the largest variance among all the counties. Its school scores range from 0.4 to 0.9. Marin, San Jose and San Francisco all have smaller variance. That means all the schools in those counties perform well.</p>
 
@@ -163,5 +164,4 @@ This interactive plot shows the relationship between average median sold house p
 
 
 <h3> Conclusion</h3>
-
 
