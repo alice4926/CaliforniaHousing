@@ -7,7 +7,7 @@
 
 <h3> Purpose </h3>
 
-    <p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
+  <p> According to statistics from U.S. Census Bureau in 2016, the median housing price in California is much higher than thoes 
     in U.S for over 50,000 dollars. The reasons are not only overwhelm demanding from residents or prospective residents but also the 
     extraordinary price changes inside California. Although the median housing price is relatively high, we still can know more about 
     regions where are worthwhile to invest and where should be avoided buying house with unreasonable price. 
@@ -15,7 +15,7 @@
     best combination of feature of house with housing price and let people know more about housing price in California.
  </p>
     <div>
-    <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 60%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 60%;width: 100px;"  width="100" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:71" sharekey-plotly="aliiu2NR6RwVq2g9EcDqed" src="https://plot.ly/embed.js" async></script>
     </div>
 
@@ -81,7 +81,7 @@ This is a time series plot to describe the number of houses available in all the
 <h4> 1. Overall Housing Prices</h4>
 
 <h5> a. Scatterplot Matrix </h5>
-    <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.</p>
+   <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.</p>
     <div>
        <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
        <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
