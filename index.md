@@ -90,7 +90,7 @@ This is a time series plot to describe the number of houses available in all the
 
 <h5> b. Compound Annual Growth Rate(CAGR) for recent five year (2012-2016) </h5>
 
-    <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.</p>
+   <p>To know which counties growth rate of housing price increase most, we used CAGR to as critian. The growth rate in Colusa, San Benito, Stanislaus, and Solano, and San Joaquin have highest positive growth rate. On the other hand, the  growth rate in Del Norte, which is the northest county in California, is the only one with negative growth rate.</p>
 
 <div>
     <a href="https://plot.ly/~aenni0409/193/?share_key=7gNLmHmPwNZPMHQAuixSyr" target="_blank" title="CAGR" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/193.png?share_key=7gNLmHmPwNZPMHQAuixSyr" alt="CAGR" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
