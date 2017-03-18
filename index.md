@@ -71,9 +71,11 @@ This is a time series plot to describe the number of houses available in all the
     hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
 <div>
-        <a href="https://plot.ly/~aenni0409/149/?share_key=LkvhYOxc9o2BO3dQkGGwtp" target="_blank" title="plot from API (1)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/149.png?share_key=LkvhYOxc9o2BO3dQkGGwtp" alt="plot from API (1)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-        <script data-plotly="aenni0409:149" sharekey-plotly="LkvhYOxc9o2BO3dQkGGwtp" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~aenni0409/195/?share_key=XbZ0Mtq8KBB6ruwq1vWbAp" target="_blank" title="plot from API (17)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/195.png?share_key=XbZ0Mtq8KBB6ruwq1vWbAp" alt="plot from API (17)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="aenni0409:195" sharekey-plotly="XbZ0Mtq8KBB6ruwq1vWbAp" src="https://plot.ly/embed.js" async></script>
 </div>
+
+
 
 
 
