@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+
+color: $header-heading-color;
+
+  text-align: center;
+  background:  url(../image/frontground.jpg) 0 0 repeat-x;
+
+}
