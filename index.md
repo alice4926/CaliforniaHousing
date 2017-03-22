@@ -152,7 +152,7 @@ This is a time series plot to describe the number of houses available in all the
 <p>Generally, the county where more people live will tend to have higher housing price. According to the plot, population might have some positive effect on the housing price. Especially for San Francisco, San Mateo, and Santa Clara, it was clear that there is higher population and also higher housing price. However, for Los Angeles, although the population is high but the housing price is not as high as expected.</p>
 
 <h4> <li>Schools vs. Housing price </li></h4>
-    <h5> 1. Schools scores distribution </h5>
+<h5> 1. Schools scores distribution </h5>
 <div>
     <a href="https://plot.ly/~danielle91515/3/?share_key=JAKR1issa4h5YSqNcfuahN" target="_blank" title="county-level-choropleths-python" style="display: block; text-align: center;"><img src="https://plot.ly/~danielle91515/3.png?share_key=JAKR1issa4h5YSqNcfuahN" alt="county-level-choropleths-python" style="max-width: 50%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="danielle91515:3" sharekey-plotly="JAKR1issa4h5YSqNcfuahN" src="https://plot.ly/embed.js" async></script>
