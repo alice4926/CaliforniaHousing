@@ -3,19 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.page-header{
-color: $header-heading-color;
 
-  text-align: center;
-
-  background: url(../image/frontground.jpg) ;
-
-  background-repeat: repeat-x;
-
-background-size: contain;
-background-position: center;
-
-}
 body {
   background: url(../image/body1.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
