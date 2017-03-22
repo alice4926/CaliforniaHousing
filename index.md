@@ -39,7 +39,7 @@ Due to lots of missing value in our dataframe, especially two counties Sierra, A
 
 <h3> Time-Series Data </h3>
 
-<h4> <li> Mean and Median All-homes price in California from 1996 to 2016 </li></h5>
+<h4> <li> Mean and Median All-homes price in California from 1996 to 2016 </li></h4>
 <p>According to the time-series line below, we can find that the housing price from 1996 to Jun 2007 was increased. However, after mid-year
     2007, the price started to decrease. One of the main reason is the subprime mortgage crisis has started and a collapse of housing bubble
     started from December 2007 to June 2009. Not until 2011, the housing price has started to increase. For the fill with gray is the error
@@ -52,7 +52,7 @@ Due to lots of missing value in our dataframe, especially two counties Sierra, A
     </div> 
 
 
-<h4> <li> Housing inventory from Jan 2010 to Jan 2017 </li></h5>
+<h4> <li> Housing inventory from Jan 2010 to Jan 2017 </li></h4>
 <div>
     <a href="https://plot.ly/~danielle91515/12/?share_key=AmJbymQR4ZcRftOERQli07" target="_blank" title="index-as-date" style="display: block; text-align: center;"><img src="https://plot.ly/~danielle91515/12.png?share_key=AmJbymQR4ZcRftOERQli07" alt="index-as-date" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="danielle91515:12" sharekey-plotly="AmJbymQR4ZcRftOERQli07" src="https://plot.ly/embed.js" async></script>
@@ -61,7 +61,7 @@ Due to lots of missing value in our dataframe, especially two counties Sierra, A
 <p>
 This is a time series plot to describe the number of houses available in all the counties of California from Jan 2010 to Jan 2017. We are interested to know that the influence of house supply on the median sold house price. If you look at Aug 2011, the house inventory in Los Angles is the highest, we have 32932 houses available in the market. The median house price at that time is roughly the lowest, which is 365.003k. Another good example will be in San Mateo, Marin and Santa Clara, the inventories of those two counties start to decrease since 2012. And the median sold house price start to increase since that time.</p>
 
-<h4><li>Median All-home price and Unemployment Rate </li></h5>
+<h4><li>Median All-home price and Unemployment Rate </li></h4>
 <div>
     <a href="https://plot.ly/~alice4926/19/?share_key=NdSlTVEZPBPUSh9D4kKjLh" target="_blank" title="unemployment_vs_sold15_plot" style="display: block; text-align: center;"><img src="https://plot.ly/~alice4926/19.png?share_key=NdSlTVEZPBPUSh9D4kKjLh" alt="unemployment_vs_sold15_plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="alice4926:19" sharekey-plotly="NdSlTVEZPBPUSh9D4kKjLh" src="https://plot.ly/embed.js" async></script>
@@ -70,17 +70,23 @@ This is a time series plot to describe the number of houses available in all the
 <p>To discuss if any relationship between housing price and unemployment rate, we plot the time series plot of each. From the plot, it’s clear that they might exist negative relationships. When the unemployment rate falls, the median housing price will increase. We inferred that this might because that the district might be in good economic times when the unemployment rate decrease. Therefore, people would be richer and tend to buy an estate.</p>
 
 
-<h4><li> Median All-home price for each county </li></h5>
+<h4><li> Median All-home price for each county </li></h4>
     
 <p>For the county seperately, we can find that all of county has the same pattern as the overall median housing price in California above except
     San Francisco. Housing Price in San Francisco did not decline significantly during the subprime mortgage crisis. The top five most expensive 
-    hosuing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
+    housing price counties in 2015 are San Francisco, San Mateo, Marin, Santa Clara, and Santa Cruz. Those five counties are all near Bay Area. For 2016, the top five most expensive housing price counties are San Francisco, San Mateo, Marin, Santa Clara, and Alameda. Similary, those two years are all near Bay Area.</p>
   
 <div>
     <a href="https://plot.ly/~aenni0409/195/?share_key=XbZ0Mtq8KBB6ruwq1vWbAp" target="_blank" title="plot from API (17)" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/195.png?share_key=XbZ0Mtq8KBB6ruwq1vWbAp" alt="plot from API (17)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="aenni0409:195" sharekey-plotly="XbZ0Mtq8KBB6ruwq1vWbAp" src="https://plot.ly/embed.js" async></script>
 </div>
 
+<h4> <li>Criminal Rate From 2005 to 2015</li> </h4>
+<div>
+    <a href="https://plot.ly/~63xinxin/32/?share_key=XP5ZFFRjLga6cYRETQNlWP" target="_blank" title="plot from API (12)" style="display: block; text-align: center;"><img src="https://plot.ly/~63xinxin/32.png?share_key=XP5ZFFRjLga6cYRETQNlWP" alt="plot from API (12)" style="max-width: 50%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="63xinxin:32" sharekey-plotly="XP5ZFFRjLga6cYRETQNlWP" src="https://plot.ly/embed.js" async></script>
+</div>
+<p> The size of the points depend on value of the housing price those years. In this plot we can see that in 2006, the criminal rate and housing price were very high. So the value in 2016 can be seen as outlier or unnormal case. For the points in other years we can find out a decrease trend of criminal rate through time. But there is a slightly increase for criminal rate in 2015. For housing price, there is also a decreasing trend from 2006 to 2012. And housing price starts to increase from 2013 to 2015. This plot implies that housing price has a increase trend in the future.</p>
 
 
 
@@ -90,7 +96,7 @@ This is a time series plot to describe the number of houses available in all the
 <h4> <li> Overall Housing Prices</li></h4>
 
 <h5> 1. Scatterplot Matrix </h5>
-    <p>According to the scatter matrix, unemployment rate is decreaese when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.
+    <p>According to the scatter matrix, unemployment rate is decreaesed when sold price in 2015 increases and when school scores is increases. Because some variables, such as crime and population are lefe-skew, we take log tranformation to those two variables. Log population has negative relation with income per person. Log crime has negative relation with log population. We will discuss more about each feature seperately.
     <div>
        <a href="https://plot.ly/~aenni0409/77/?share_key=YUn5DjA89OUDq02T4mfSAn" target="_blank" title="Scatterplot Matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/77.png?share_key=YUn5DjA89OUDq02T4mfSAn" alt="Scatterplot Matrix" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
        <script data-plotly="aenni0409:77" sharekey-plotly="YUn5DjA89OUDq02T4mfSAn" src="https://plot.ly/embed.js" async></script>
@@ -155,7 +161,7 @@ This is a time series plot to describe the number of houses available in all the
 This is a county level choropleths map showing the trend of school scores 2016 obtained from <a href="https://www.schooldigger.com">Schooldigger</a>. For each county, I sum the elementary, middle and high school scores up and average them in each county. Then, since the averaged score is between 0 to 1, for making this map, I divide the score by 0.01 to change its scale to 0 to 100 and assign the color for each county based on the value. In the map above, the more red the region is, the higher school score the county has. For general trend, we can see that northern California is doing better than southern part of California. There are more red regions around San Francisco. The highest region is Marin (0.7644). The second runner up is San Jose (0.73). The third runner up is San Francisco (0.7242). They are all located at northern California. If we take a closer look at southern part of California, the highest score region is Irvien (0.6744). The second runner up is Santa Barbara (0.6471). Because Los Angeles has the most number of schools in California, the score range may be quite different. It does not the top rank county in southern part of California. The average score is 0.57.
 </p>
 
-<p><img src ="/plot/bar_error_school.png" style="max-width: 50%;width: 300px;"  width="300"></p>
+<p><img src ="./plot/bar_error_school.png" style="max-width: 50%;width: 300px;"  width="300"></p>
 
 <p>
 This picture shows the variance of school scores in each county. It is interesting to see that the variance of los angeles is not huge. That means the reason Los Angeles is not the top rated county for school is that all the school scores in Los Angeles are not high. Trinity has the largest variance among all the counties. Its school scores range from 0.4 to 0.9. Marin, San Jose and San Francisco all have smaller variance. That means all the schools in those counties perform well.</p>
@@ -193,14 +199,8 @@ This interactive plot shows the relationship between average median sold house p
     Now, let's look at some unnormal counties. For example in San Francisco, it has the largest housing price and criminal rate. 
 </p>
 
-<h4> 7.Criminal Rate From 2005 to 2015 </h4>
-<div>
-    <a href="https://plot.ly/~63xinxin/32/?share_key=XP5ZFFRjLga6cYRETQNlWP" target="_blank" title="plot from API (12)" style="display: block; text-align: center;"><img src="https://plot.ly/~63xinxin/32.png?share_key=XP5ZFFRjLga6cYRETQNlWP" alt="plot from API (12)" style="max-width: 50%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="63xinxin:32" sharekey-plotly="XP5ZFFRjLga6cYRETQNlWP" src="https://plot.ly/embed.js" async></script>
-</div>
-<p> The size of the points depend on value of the housing price those years. In this plot we can see that in 2006, the criminal rate and housing price were very high. So the value in 2016 can be seen as outlier or unnormal case. For the points in other years we can find out a decrease trend of criminal rate through time. But there is a slightly increase for criminal rate in 2015. For housing price, there is also a decreasing trend from 2006 to 2012. And housing price starts to increase from 2013 to 2015. This plot implies that housing price has a increase trend in the future.</p>
 
 
 
 <h3> Conclusion</h3>
-
+<p> According to time series analysis, each county in California has similar pattern with the overall sold price except San Francisco whose housing price did not decrease much even during the subprime mortgage crisis. Housing inventory dataset shows that house supply in California has negative relation with sold price. Both unemployment rate and criminal rate present negative relationship with housing price.<br> By analyzing different features that might relate to sold price in spacial aspect, we find out that almost all counties in California have positive growth rate of housing price from 2012 to 2016. Even though school scores in Northern California have higher value than those in Southern California, there is no difference of housing price between Southern and Northen California. What's more, income does not show significant relationship with housing price after exploring data in different counties. But there present positive relationship of sold price and school scores. Unemployment rate exhibit negative relationship with housing price. <br> In sum, after comparing all those results for each county, we think Orange county is the most appropriate county when choosing to buy a house in California. </p> 
