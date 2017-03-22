@@ -12,7 +12,7 @@
     Therefore, in this project, we will use Zillow housing price data for each counties in California and some features to find the best combination of feature of house with housing price and let people know more about housing price in California.</p>
 
 <div>
-   <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 40%;width: 400px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+   <a href="https://plot.ly/~aenni0409/71/?share_key=aliiu2NR6RwVq2g9EcDqed" target="_blank" title="color-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~aenni0409/71.png?share_key=aliiu2NR6RwVq2g9EcDqed" alt="color-bar" style="max-width: 40%;width: 500px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
    <script data-plotly="aenni0409:71" sharekey-plotly="aliiu2NR6RwVq2g9EcDqed" src="https://plot.ly/embed.js" async></script>
 </div>
 
