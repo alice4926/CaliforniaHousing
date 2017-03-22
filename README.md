@@ -11,8 +11,5 @@
 You can access our result [here](https://alice4926.github.io/CaliforniaHousing/)
  
 ## Team members
-Xin Li
-Chia-Hui Shen
-Ying-Chen Chou
-Danyang Chen
+Xin Li, Chia-Hui Shen, Ying-Chen Chou, Danyang Chen
 
