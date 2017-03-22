@@ -88,9 +88,8 @@ a {
 
 .page-header {
   text-align: center;
-  background-image: url(../plot/frontground.jpg) 0 0 repeat-x;
-  background-position: center;
-  border-bottom: solid 1px #275da1;
+  background-image:#2e7bcf url(../plot/frontground.jpg) 0 0 repeat-x;
+
   @include large {
     padding: 5rem 6rem;
   }
