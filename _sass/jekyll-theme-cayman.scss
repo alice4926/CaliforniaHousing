@@ -89,7 +89,7 @@ a {
 .page-header {
   text-align: center;
   background-image: url("../plot/frontground.jpg") 0 0 repeat-x;
-  color:$body-text-color;
+  color: $header-heading-color
   @include large {
     padding: 5rem 6rem;
   }
