@@ -28,11 +28,11 @@
 <h3> Data Description </h3>
 
 <p>Fist, we discussed time-series housing data which comes from open data sourse Zillow. Part of dataframe are below</p>
-<p><img src='./plot/Time_Series_Data.png' style="max-width: 100%;width: 300px;" width="600" ></p>
+<p><img src='./plot/Time_Series_Data.png' style="max-width: 100%;width: 600px;" width="600" ></p>
 Because sold price has more complete data from 1996, we use sold price to discuss futher in Time-Series.
 
 <p>Second, we discussed the rencent two year listing, sold price with features. Part of dataframe are below</p>
-<p><img src='./plot/All_Data_Set.png' style="max-width: 100%;width: 300px;" width="600"></p>
+<p><img src='./plot/All_Data_Set.png' style="max-width: 100%;width: 600px;" width="600"></p>
 Features : Unemployment rate, Income, Population, Criminal Rate, School Scores
 
 Due to lots of missing value in our dataframe, especially two counties Sierra, Alpin which have much few population than others, we will omit thoes two counties in the following analysis.
